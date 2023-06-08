@@ -1,0 +1,12 @@
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.deps.json
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.pdb
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/refint/CleanArchMvc.Infra.IoC.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.pdb
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/ref/CleanArchMvc.Infra.IoC.dll

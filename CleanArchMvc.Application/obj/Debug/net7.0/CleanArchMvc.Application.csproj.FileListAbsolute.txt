@@ -1,0 +1,12 @@
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.deps.json
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.pdb
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfo.cs
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/refint/CleanArchMvc.Application.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.pdb
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Application/obj/Debug/net7.0/ref/CleanArchMvc.Application.dll
