@@ -96,6 +96,7 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "suppressParent": "None",
               "target": "Package",
               "version": "[7.0.5, )"
             },

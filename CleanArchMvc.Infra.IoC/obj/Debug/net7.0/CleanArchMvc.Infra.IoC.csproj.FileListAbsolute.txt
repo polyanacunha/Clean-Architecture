@@ -10,3 +10,12 @@
 /home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/refint/CleanArchMvc.Infra.IoC.dll
 /home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.pdb
 /home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/ref/CleanArchMvc.Infra.IoC.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Application.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Domain.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Infra.Data.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Domain.pdb
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Application.pdb
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Infra.Data.pdb
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.csproj.CopyComplete
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.runtimeconfig.json
+/home/usuario/curso_cleanarchvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.genruntimeconfig.cache
