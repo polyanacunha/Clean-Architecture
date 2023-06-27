@@ -1,14 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
+using CleanArchMvc.Infra.Data;
+using CleanArchMvc.Infra.Data.Context;
 using CleanArchMvc.Infra.IoC;
+using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchMvc.WebUI
 {
@@ -26,6 +19,7 @@ namespace CleanArchMvc.WebUI
         {
             services.AddInfrastructure(Configuration);
             services.AddControllersWithViews();
+            services.AddDbContext<ApplicationDbContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,7 +46,7 @@ namespace CleanArchMvc.WebUI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Products}/{action=Index}/{id?}");
             });
         }
     }
