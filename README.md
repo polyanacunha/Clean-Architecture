@@ -7,17 +7,17 @@ CleanArchMvc é um projeto .NET desenvolvido em C# utilizando a arquitetura Clea
 # Arquitetura
 O projeto CleanArchMvc foi cuidadosamente projetado com uma arquitetura sólida e modular, fornecendo uma base sólida para o desenvolvimento de aplicações escaláveis e de alta qualidade. A arquitetura é dividida em seis projetos distintos:
 
-CleanArchMvc.Infra.IoC: Este projeto é responsável por garantir a inversão de controle e gerenciar as dependências do sistema. Ele usa a técnica de injeção de dependências para facilitar a troca de implementações e promover a modularidade.
+**CleanArchMvc.Infra.IoC**: Este projeto é responsável por garantir a inversão de controle e gerenciar as dependências do sistema. Ele usa a técnica de injeção de dependências para facilitar a troca de implementações e promover a modularidade.
 
-CleanArchMvc.WebUI: Este projeto abriga a interface do usuário, fornecendo uma experiência amigável e intuitiva para os usuários finais. Ele interage com o CleanArchMvc.Application para exibir informações e realizar ações relacionadas ao estoque de produtos.
+**CleanArchMvc.WebUI**: Este projeto abriga a interface do usuário, fornecendo uma experiência amigável e intuitiva para os usuários finais. Ele interage com o CleanArchMvc.Application para exibir informações e realizar ações relacionadas ao estoque de produtos.
 
-CleanArchMvc.Infra.Data: O projeto CleanArchMvc.Infra.Data lida com a camada de acesso a dados, sendo responsável por se conectar com o banco de dados. Ele utiliza o Entity Framework como ORM (Object-Relational Mapping) para mapear objetos de domínio para entidades do banco de dados.
+**CleanArchMvc.Infra.Data**: O projeto CleanArchMvc.Infra.Data lida com a camada de acesso a dados, sendo responsável por se conectar com o banco de dados. Ele utiliza o Entity Framework como ORM (Object-Relational Mapping) para mapear objetos de domínio para entidades do banco de dados.
 
-CleanArchMvc.Domain.Tests: Este projeto é dedicado à criação de testes de unidade para as classes de domínio. Os testes garantem que as regras de negócio estejam sendo implementadas corretamente e que as classes de domínio estejam funcionando conforme o esperado.
+**CleanArchMvc.Domain.Tests**: Este projeto é dedicado à criação de testes de unidade para as classes de domínio. Os testes garantem que as regras de negócio estejam sendo implementadas corretamente e que as classes de domínio estejam funcionando conforme o esperado.
 
-CleanArchMvc.Domain: O projeto CleanArchMvc.Domain contém as classes de domínio do sistema e as interfaces que definem os contratos de serviço. As classes de domínio encapsulam as entidades principais do sistema, como produtos e categorias, bem como as regras de negócio associadas a essas entidades.
+**CleanArchMvc.Domain**: O projeto CleanArchMvc.Domain contém as classes de domínio do sistema e as interfaces que definem os contratos de serviço. As classes de domínio encapsulam as entidades principais do sistema, como produtos e categorias, bem como as regras de negócio associadas a essas entidades.
 
-CleanArchMvc.Application: Este projeto é responsável pela implementação das regras de negócio e pela prestação de serviços aos usuários da aplicação. Ele atua como uma camada intermediária entre a interface do usuário e as classes de domínio, garantindo que as operações sejam executadas de acordo com as regras estabelecidas.
+**CleanArchMvc.Application**: Este projeto é responsável pela implementação das regras de negócio e pela prestação de serviços aos usuários da aplicação. Ele atua como uma camada intermediária entre a interface do usuário e as classes de domínio, garantindo que as operações sejam executadas de acordo com as regras estabelecidas.
 
 # Funcionalidades
 O sistema CleanArchMvc oferece uma variedade de funcionalidades relacionadas ao gerenciamento de estoque de produtos. Algumas das principais funcionalidades incluem:
