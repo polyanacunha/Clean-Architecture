@@ -417,3 +417,4 @@
 /home/usuario/curso_cleanarchvc/CleanArchMvc.WebUI/bin/Debug/net7.0/MediatR.dll
 /home/usuario/curso_cleanarchvc/CleanArchMvc.WebUI/bin/Debug/net7.0/MediatR.Contracts.dll
 /home/usuario/curso_cleanarchvc/CleanArchMvc.WebUI/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/home/usuario/curso_cleanarchvc/CleanArchMvc.WebUI/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
